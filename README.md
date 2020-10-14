@@ -1,2 +1,2 @@
 # loancalculator
-Loan EMI calculator
+Loan EMI calculator used for buying homes 
